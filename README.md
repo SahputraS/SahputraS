@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Nadillia Sahputra!👋
+
+🌱 I’m currently learning physics modelling, data science, and machine learning in University of Padova. 
+
 
 <!--
 **SahputraS/SahputraS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
