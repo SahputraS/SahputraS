@@ -1,6 +1,7 @@
 ### Hi there, I'm Nadillia Sahputra!👋
 
-🌱 I’m currently studying physics modelling, data science, and machine learning at the University of Padova. 
+🌱 I’m a Physics of Data students at the university of Padova. 
+🔭 I'm studying physics modelling, data science, and machine learning. 
 
 
 <!--
