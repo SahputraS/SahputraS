@@ -1,4 +1,4 @@
-### Hi there, I'm Nadillia Sahputra!👋
+### Hi there, I'm Nadillia!👋
 
 - 🌱 I’m a Physics of Data graduate from the University of Padova. 
 - 🔭 I was (in university) and still studying physics modelling, data science, and machine learning. 
