@@ -1,7 +1,7 @@
 ### Hi there, I'm Nadillia!👋
 
 - 🌱 I’m a Physics of Data graduate from the University of Padova. 
-- 🔭 I was (in university) and still studying physics modelling, data science, and machine learning. 
+- 🔭 I was (in university) and still learning physics modelling, data science, and machine learning. 
 
 
 <!--
